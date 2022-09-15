@@ -1,0 +1,14 @@
+using System;
+public class AreaOfRectangle
+{
+    public static void Main()
+    {
+        Console.WriteLine("Skriv in basen på en rektanegl: ");
+        int Width = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Skriv in höjden på rektangeln: ");
+        int Height = Convert.ToInt32(Console.ReadLine());
+        int Area = Width * Height;
+        Console.WriteLine($"Area of Length {Length} and Breadth {Breadth} Rectangle is {Area}");
+        Console.ReadKey();
+    }
+}
