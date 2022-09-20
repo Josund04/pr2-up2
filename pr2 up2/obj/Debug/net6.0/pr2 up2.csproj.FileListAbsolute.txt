@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\obj\Debug\net6.0\pr2 up2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\obj\Debug\net6.0\pr2 up2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\obj\Debug\net6.0\pr2 up2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\obj\Debug\net6.0\pr2 up2.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\obj\Debug\net6.0\pr2 up2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\bin\Debug\net6.0\pr2 up2.exe
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\bin\Debug\net6.0\pr2 up2.deps.json
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\bin\Debug\net6.0\pr2 up2.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\bin\Debug\net6.0\pr2 up2.dll
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\bin\Debug\net6.0\pr2 up2.pdb
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\obj\Debug\net6.0\pr2 up2.dll
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\obj\Debug\net6.0\refint\pr2 up2.dll
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\obj\Debug\net6.0\pr2 up2.pdb
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\obj\Debug\net6.0\pr2 up2.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\pr2-up2\pr2 up2\obj\Debug\net6.0\ref\pr2 up2.dll
