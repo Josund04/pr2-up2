@@ -19,4 +19,4 @@ public class AreaOfRectangle
         Console.WriteLine("Längden av basen " +(Width)+ " och höjden " +(Height)+ " ger arean " +(Area));
         Console.ReadKey();
     }
-} 
+}
